@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+.post_nav_brand{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Krona One', sans-serif;
+}
+.post_nav_link{
+    padding:10px 14px;
+    font-size: 18px;
+    color:#777;
+}
+.post_nav_link.active{
+    color:darkcyan;
+}
